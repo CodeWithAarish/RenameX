@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const replaceThis = "harry";
-const replaceWith = "aarish";
+const replaceThis = "aarish";
+const replaceWith = "harry";
 const preview = false;
 const folder = __dirname
 
